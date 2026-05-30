@@ -1,0 +1,70 @@
+Transaction_ID,Device_OS,Cart_Value_USD,User_Risk_Score,Time_of_Day,Successful_Payment_Method
+TXN_1001,iOS,85.20,12,Morning,Apple Pay
+TXN_1002,Android,145.50,45,Afternoon,Google Pay
+TXN_1003,Windows,920.00,20,Evening,BNPL TXN_1004,Mac,55.00,95,Night,Credit Card
+TXN_1005,iOS,120.00,15,Morning,Apple Pay
+TXN_1006,Android,35.00,88,Afternoon,Credit Card
+TXN_1007,iOS,650.00,25,Evening,BNPL TXN_1008,Windows,450.00,10,Night,Credit Card
+TXN_1009,Android,95.00,32,Morning,Google Pay
+TXN_1010,Mac,1100.00,40,Afternoon,BNPL TXN_1011,iOS,15.50,92,Evening,Credit Card
+TXN_1012,Windows,780.00,18,Night,BNPL TXN_1013,Android,220.00,22,Morning,Google
+Pay TXN_1014,iOS,45.00,5,Afternoon,Apple Pay
+TXN_1015,Mac,510.00,82,Evening,Credit Card
+TXN_1016,Android,60.00,14,Night,Google Pay TXN_1017,iOS,1050.00,30,Morning,BNPL
+TXN_1018,Windows,300.00,55,Afternoon,Credit Card
+TXN_1019,iOS,90.00,8,Evening,Apple Pay TXN_1020,Mac,75.00,98,Night,Credit Card
+TXN_1021,Android,12.50,21,Morning,Google Pay
+TXN_1022,Windows,890.00,35,Afternoon,BNPL TXN_1023,iOS,115.00,11,Evening,Apple
+Pay TXN_1024,Mac,620.00,44,Night,Credit Card
+TXN_1025,Android,25.00,81,Morning,Credit Card
+TXN_1026,iOS,42.00,16,Afternoon,Apple Pay
+TXN_1027,Windows,550.00,29,Evening,BNPL TXN_1028,Mac,180.00,12,Night,Credit Card
+TXN_1029,Android,310.00,38,Morning,Google Pay
+TXN_1030,iOS,850.00,50,Afternoon,BNPL TXN_1031,Windows,45.00,94,Evening,Credit
+Card TXN_1032,Mac,920.00,22,Night,BNPL TXN_1033,iOS,65.00,14,Morning,Apple Pay
+TXN_1034,Android,125.00,86,Afternoon,Credit Card
+TXN_1035,Windows,720.00,19,Evening,BNPL TXN_1036,Mac,40.00,7,Night,Credit Card
+TXN_1037,iOS,150.00,25,Morning,Apple Pay
+TXN_1038,Android,880.00,33,Afternoon,BNPL TXN_1039,iOS,12.00,91,Evening,Credit
+Card TXN_1040,Mac,35.00,10,Night,Credit Card
+TXN_1041,Android,95.00,15,Morning,Google Pay
+TXN_1042,Windows,610.00,42,Afternoon,BNPL TXN_1043,iOS,210.00,18,Evening,Apple
+Pay TXN_1044,Mac,55.00,89,Night,Credit Card
+TXN_1045,Android,1100.00,24,Morning,BNPL TXN_1046,iOS,45.00,5,Afternoon,Apple
+Pay TXN_1047,Windows,950.00,85,Evening,Credit Card
+TXN_1048,Mac,150.00,12,Night,Credit Card
+TXN_1049,Android,320.00,40,Morning,Google Pay
+TXN_1050,iOS,680.00,31,Afternoon,BNPL TXN_1051,Windows,35.00,97,Evening,Credit
+Card TXN_1052,Mac,120.00,14,Night,Credit Card TXN_1053,iOS,75.00,9,Morning,Apple
+Pay TXN_1054,Android,540.00,22,Afternoon,BNPL
+TXN_1055,iOS,110.00,83,Evening,Credit Card
+TXN_1056,Windows,250.00,11,Night,Credit Card TXN_1057,Mac,820.00,39,Morning,BNPL
+TXN_1058,Android,45.00,17,Afternoon,Google Pay
+TXN_1059,iOS,590.00,28,Evening,BNPL TXN_1060,Windows,15.00,82,Night,Credit Card
+TXN_1061,Mac,400.00,50,Morning,Credit Card
+TXN_1062,Android,70.00,10,Afternoon,Google Pay
+TXN_1063,iOS,930.00,15,Evening,BNPL TXN_1064,Windows,110.00,99,Night,Credit Card
+TXN_1065,Mac,55.00,20,Morning,Credit Card
+TXN_1066,Android,600.00,41,Afternoon,BNPL TXN_1067,iOS,125.00,7,Evening,Apple
+Pay TXN_1068,Windows,770.00,33,Night,BNPL TXN_1069,Mac,200.00,87,Morning,Credit
+Card TXN_1070,Android,80.00,19,Afternoon,Google Pay
+TXN_1071,iOS,45.00,11,Evening,Apple Pay TXN_1072,Windows,1050.00,26,Night,BNPL
+TXN_1073,Mac,90.00,93,Morning,Credit Card
+TXN_1074,Android,15.00,13,Afternoon,Google Pay
+TXN_1075,iOS,520.00,45,Evening,BNPL TXN_1076,Windows,300.00,10,Night,Credit Card
+TXN_1077,Mac,115.00,16,Morning,Credit Card
+TXN_1078,Android,980.00,52,Afternoon,BNPL TXN_1079,iOS,65.00,84,Evening,Credit
+Card TXN_1080,Windows,40.00,12,Night,Credit Card
+TXN_1081,Mac,630.00,29,Morning,BNPL TXN_1082,Android,120.00,40,Afternoon,Google
+Pay TXN_1083,iOS,180.00,14,Evening,Apple Pay
+TXN_1084,Windows,55.00,96,Night,Credit Card TXN_1085,Mac,740.00,37,Morning,BNPL
+TXN_1086,Android,35.00,21,Afternoon,Google Pay
+TXN_1087,iOS,85.00,9,Evening,Apple Pay TXN_1088,Windows,880.00,15,Night,BNPL
+TXN_1089,Mac,20.00,81,Morning,Credit Card
+TXN_1090,Android,510.00,48,Afternoon,BNPL TXN_1091,iOS,130.00,12,Evening,Apple
+Pay TXN_1092,Windows,60.00,8,Night,Credit Card
+TXN_1093,Mac,920.00,34,Morning,BNPL TXN_1094,Android,110.00,89,Afternoon,Credit
+Card TXN_1095,iOS,55.00,10,Evening,Apple Pay
+TXN_1096,Windows,710.00,27,Night,BNPL TXN_1097,Mac,45.00,13,Morning,Credit Card
+TXN_1098,Android,640.00,55,Afternoon,BNPL TXN_1099,iOS,1200.00,18,Evening,BNPL
+TXN_1100,Windows,35.00,90,Night,Credit Card
